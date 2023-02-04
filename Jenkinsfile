@@ -1,3 +1,1 @@
-CMD:
-RUN:
-FROM:
+Jenkins empty file
