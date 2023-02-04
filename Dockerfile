@@ -1,1 +1,2 @@
-Docker file 
+FROM
+RUN
